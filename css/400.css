@@ -1,0 +1,17 @@
+@media (max-width: 481px) {
+    #nav-container {
+        padding: 0;
+    }
+    .nav-link {
+        font-size: .95rem;;
+        padding: .7rem;
+        margin-top: 9px;
+ 
+    }
+    .intro-text h1 {
+        font-size: 3.3rem;
+    }
+    .intro-text p {
+        font-size: 1.3rem;
+    }
+}

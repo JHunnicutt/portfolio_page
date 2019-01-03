@@ -1,0 +1,18 @@
+@media (max-width: 590px) {
+    .intro-text {
+        padding-top: 39vh;
+    }
+    #contact {
+        height: 13rem;
+    }
+    .contact-images a {
+        width: 17%;
+    }
+    .contact-link--1 {
+        margin-right: 3rem;
+
+    }
+    .contact-link--3 {
+        margin-left: 3rem;
+    }
+}
